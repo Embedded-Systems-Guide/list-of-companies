@@ -7,3 +7,20 @@
 
 ## Chennai
 - [Zilogic Systems Pvt Ltd] (http://www.zilogic.com/)
+
+## Ahmedabad
+- [Sibridge technologies] (http://www.sibridgetech.com/)
+- [einfochips] (https://www.einfochips.com/)
+- [Panamax infotech ltd] (https://www.panamaxil.com/)
+- [Insigno quipment technologies] (http://www.quipment.in/)
+- [Jekson vision] (http://www.jeksonvision.com/)
+- [Cyberoam technologies pvt ltd] (https://www.cyberoam.com/)
+- [Truetzschler india pvt ltd] (http://www.truetzschler.in/)
+
+## Vadodara
+- [Matrix Comsec] (http://www.matrixcomsec.com/)
+- [ABB Ltd] (http://new.abb.com/)
+- [Edutech india pvt ltd] (http://www.edutech.com/)
+
+
+## Gandhinagar

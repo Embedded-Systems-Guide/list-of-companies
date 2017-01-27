@@ -2,7 +2,7 @@
 ## Bangalore
 - [Ather Energy] (https://www.atherenergy.com/)
 - [Mirafra technologies] (http://mirafra.com/)
-- [PathPartner Technology] https://www.pathpartnertech.com/)
+- [PathPartner Technology] (https://www.pathpartnertech.com/)
 
 ## Gurgaon
 - [VVDN Technologies Pvt Ltd] (http://www.vvdntech.com/)

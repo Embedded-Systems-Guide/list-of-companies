@@ -29,3 +29,8 @@
 
 ## Gandhinagar
 - [Vavni technologies pvt ltd] (http://www.vavni.com/html/currentOpenings.html)
+
+
+
+# Singapore
+- [Aztech] (https://www.aztech.com/)

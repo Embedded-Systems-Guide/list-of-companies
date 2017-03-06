@@ -18,6 +18,8 @@
 - [Jekson vision] (http://www.jeksonvision.com/)
 - [Cyberoam technologies pvt ltd] (https://www.cyberoam.com/)
 - [Truetzschler india pvt ltd] (http://www.truetzschler.in/)
+- [Qualitrol] (http://www.qualitrolcorp.com/)
+- [Hi-Rel] (http://www.hitachi-hirel.com/)
 
 ## Vadodara
 - [Matrix Comsec] (http://www.matrixcomsec.com/)

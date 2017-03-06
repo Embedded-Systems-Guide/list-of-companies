@@ -1,3 +1,8 @@
+# Singapore
+- [Aztech] (https://www.aztech.com/)
+
+
+
 # India
 ## Bangalore
 - [Ather Energy] (https://www.atherenergy.com/)
@@ -32,5 +37,3 @@
 
 
 
-# Singapore
-- [Aztech] (https://www.aztech.com/)

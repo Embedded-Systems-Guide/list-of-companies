@@ -26,6 +26,8 @@
 - [Qualitrol](http://www.qualitrolcorp.com/)
 - [Hi-Rel](http://www.hitachi-hirel.com/)
 - [Glide technologies](http://glidemtech.com/)
+- [LUMIUM](http://www.lumium.com/)
+- [Masibus automation and instrumentation pvt ltd](http://www.masibus.com/)
 
 ## Vadodara
 - [Matrix Comsec](http://www.matrixcomsec.com/)

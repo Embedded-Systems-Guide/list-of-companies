@@ -35,6 +35,7 @@
 - [Glide technologies](http://glidemtech.com/)
 - [LUMIUM](http://www.lumium.com/)
 - [Masibus automation and instrumentation pvt ltd](http://www.masibus.com/)
+- [Cimcon](https://www.cimcon.com/)
 
 ## Vadodara
 - [Matrix Comsec](http://www.matrixcomsec.com/)

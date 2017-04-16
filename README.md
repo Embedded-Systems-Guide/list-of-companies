@@ -10,6 +10,29 @@
 - [tvilight intelligent lighting](http://www.tvilight.com/)
 - [Qardio](https://www.getqardio.com/)
 
+# Canada
+
+## Ottawa
+- Schneider
+- Fortinet
+- Modis
+- BlackBerry
+- Aerotek
+- Ciena
+
+## Toronto
+- Square
+- Amaris
+- VerifEye Technologies
+- iS5 Communications Inc.
+- Huntech Consultants Inc
+- Core Services
+- ViXS Systems Inc.
+
+## Waterloo
+- Mobiliya Technologies
+- Huawei Technologies
+
 # India
 ## Bangalore
 - [Ather Energy](https://www.atherenergy.com/)

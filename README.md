@@ -39,9 +39,6 @@
 - [Mirafra technologies](http://mirafra.com/)
 - [PathPartner Technology](https://www.pathpartnertech.com/)
 
-## Gurgaon
-- [VVDN Technologies Pvt Ltd](http://www.vvdntech.com/)
-
 ## Chennai
 - [Zilogic Systems Pvt Ltd](http://www.zilogic.com/)
 
@@ -59,6 +56,7 @@
 - [LUMIUM](http://www.lumium.com/)
 - [Masibus automation and instrumentation pvt ltd](http://www.masibus.com/)
 - [Cimcon](https://www.cimcon.com/)
+- [Simform](https://www.simform.co.in/)
 
 ## Vadodara
 - [Matrix Comsec](http://www.matrixcomsec.com/)
@@ -68,6 +66,6 @@
 
 ## Gandhinagar
 - [Vavni technologies pvt ltd](http://www.vavni.com/html/currentOpenings.html)
-
+- [VVDN Technologies Pvt Ltd](http://www.vvdntech.com/)
 
 

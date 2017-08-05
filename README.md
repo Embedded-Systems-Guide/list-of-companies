@@ -1,18 +1,21 @@
-# USA
-## Massachusetts 
+## USA
+### Massachusetts 
 - [MIT Media Lab](https://jobs.github.com/positions/d81aa4b2-002c-11e7-8c12-6c0cd03b0281)
 
-
-# Singapore
+## Singapore
 - [Aztech](https://www.aztech.com/)
 
-# Netherlands
+## Netherlands
 - [tvilight intelligent lighting](http://www.tvilight.com/)
 - [Qardio](https://www.getqardio.com/)
 
-# Canada
+## Germany
+- [Witekio](https://witekio.com/careers/embedded-linux-software-engineer/)
 
-## Ottawa
+
+## Canada
+
+### Ottawa
 - Schneider
 - Fortinet
 - Modis
@@ -20,7 +23,7 @@
 - Aerotek
 - Ciena
 
-## Toronto
+### Toronto
 - Square
 - Amaris
 - VerifEye Technologies
@@ -29,20 +32,20 @@
 - Core Services
 - ViXS Systems Inc.
 
-## Waterloo
+### Waterloo
 - Mobiliya Technologies
 - Huawei Technologies
 
-# India
-## Bangalore
+## India
+### Bangalore
 - [Ather Energy](https://www.atherenergy.com/)
 - [Mirafra technologies](http://mirafra.com/)
 - [PathPartner Technology](https://www.pathpartnertech.com/)
 
-## Chennai
+### Chennai
 - [Zilogic Systems Pvt Ltd](http://www.zilogic.com/)
 
-## Ahmedabad
+### Ahmedabad
 - [Sibridge technologies](http://www.sibridgetech.com/)
 - [einfochips](https://www.einfochips.com/)
 - [Panamax infotech ltd](https://www.panamaxil.com/)
@@ -58,14 +61,12 @@
 - [Cimcon](https://www.cimcon.com/)
 - [Simform](https://www.simform.co.in/)
 
-## Vadodara
+### Vadodara
 - [Matrix Comsec](http://www.matrixcomsec.com/)
 - [ABB Ltd](http://new.abb.com/)
 - [Edutech india pvt ltd](http://www.edutech.com/)
 
 
-## Gandhinagar
+### Gandhinagar
 - [Vavni technologies pvt ltd](http://www.vavni.com/html/currentOpenings.html)
 - [VVDN Technologies Pvt Ltd](http://www.vvdntech.com/)
-
-

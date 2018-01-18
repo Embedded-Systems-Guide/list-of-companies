@@ -51,7 +51,7 @@
 - [Panamax infotech ltd](https://www.panamaxil.com/)
 - [Insigno quipment technologies](http://www.quipment.in/)
 - [Jekson vision](http://www.jeksonvision.com/)
-- [Cyberoam technologies pvt ltd](https://www.cyberoam.com/)
+- [SOPHOS](https://www.sophos.com/en-us.aspx)
 - [Truetzschler india pvt ltd](http://www.truetzschler.in/)
 - [Qualitrol](http://www.qualitrolcorp.com/)
 - [Hi-Rel](http://www.hitachi-hirel.com/)
@@ -60,6 +60,7 @@
 - [Masibus automation and instrumentation pvt ltd](http://www.masibus.com/)
 - [Cimcon](https://www.cimcon.com/)
 - [Simform](https://www.simform.co.in/)
+- [Ecosmob](https://www.ecosmob.com/)
 
 ### Vadodara
 - [Matrix Comsec](http://www.matrixcomsec.com/)
